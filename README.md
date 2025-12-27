@@ -6,6 +6,25 @@ A decentralized voting application built on Ethereum that ensures complete priva
 
 ---
 
+## 🌐 Live Demo & Contract
+
+<div align="center">
+
+### 🚀 [**Try the Live Demo**](https://secret-voting-dapp.vercel.app)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00D4AA?style=for-the-badge&logo=vercel)](https://secret-voting-dapp.vercel.app)
+
+### 📄 [**View Smart Contract on Etherscan**](https://sepolia.etherscan.io/address/0x29E6AA7D4e9cef601cFACc46C556Ce0B56f0a71e)
+
+[![Etherscan](https://img.shields.io/badge/Etherscan-View_Contract-627EEA?style=for-the-badge&logo=ethereum)](https://sepolia.etherscan.io/address/0x29E6AA7D4e9cef601cFACc46C556Ce0B56f0a71e)
+
+**Contract Address:** `0x29E6AA7D4e9cef601cFACc46C556Ce0B56f0a71e`  
+**Network:** Sepolia Testnet
+
+</div>
+
+---
+
 ## 🎯 Key Features
 
 - **🔒 Encrypted Voting**: Votes are encrypted using FHE before being sent to the blockchain
